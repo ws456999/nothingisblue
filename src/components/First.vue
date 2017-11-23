@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h2>red</h2>
+    <h2>RED-RED</h2>
     <router-link to="/">home</router-link>
   </div>
 </template>
